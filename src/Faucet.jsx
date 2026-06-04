@@ -112,7 +112,7 @@ export default function Faucet() {
 
           <div className="info">
             <div className="info-item">
-              <span className="dot" /> You will receive exactly <b>{DRIP_LABEL}</b>.
+              <span className="dot" /> You will receive <b>{DRIP_LABEL}</b>.
             </div>
             <div className="info-item">
               <span className="dot" /> One request per address.
